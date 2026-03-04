@@ -2,6 +2,8 @@
 
 Monorepo: Node/Express API and React (Vite + Tailwind + shadcn/ui) frontend.
 
+**Requirements:** Node.js **v22.12.0** (see `.nvmrc`; use `nvm use` if you use nvm). Expect this to be tested on other local machines.
+
 ## API (`api/`)
 
 - **Setup:** Copy `api/.env.example` to `api/.env` and set:
